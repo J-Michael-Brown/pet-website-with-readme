@@ -1,0 +1,28 @@
+h1 {
+  color: #ff0000;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+}
+
+p {
+  font-weight: bold;
+  font-family: serif;
+  text-align: center;
+}
+
+.all {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.list {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
